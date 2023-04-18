@@ -7,6 +7,7 @@ This is how to use this tool:
 3- Make sure the link starts with http or https, for example (http://www.example.com or https://www.example.com)
 4- Click Enter , and the attack will start .
 
+
 *
 *
 *
@@ -17,6 +18,9 @@ This is how to use this tool:
 طريقة الاستخدام:
 
 1- انسخ رابط الموقع الذي تريد مهاجمته.
+
 2- قم بتشغيل ملف HTTP_DOS.exe ، والصق الرابط.
+
 3- تأكد من أن الرابط يبدأ بـ http أو https ، على سبيل المثال (http://www.example.com أو https://www.example.com)
+
 4- انقر فوق Enter ، وسيبدأ الهجوم.
